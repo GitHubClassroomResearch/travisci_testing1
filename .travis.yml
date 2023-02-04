@@ -5,4 +5,4 @@ dist: trusty
 jdk: oraclejdk8
 
 script:
-  - ./gradlew test
+  - ./gradlew clean build test
