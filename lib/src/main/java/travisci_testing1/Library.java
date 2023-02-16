@@ -5,6 +5,6 @@ package travisci_testing1;
 
 public class Library {
     public boolean someLibraryMethod() {
-        return false;
+        return true;
     }
 }
